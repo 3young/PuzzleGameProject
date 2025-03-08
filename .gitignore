@@ -71,3 +71,23 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Rider & JetBrains 추가 캐시 파일
+.idea/
+*.iml
+
+# Unity Collaborate(Plastic SCM) 캐시 폴더 (사용하지 않는다면 제외)
+# Unity Collaborate 사용 시 자동 생성됨
+/[Pp]lastic/
+
+# Unity Package Cache (원래 Library/ 안에 있지만, 일부 버전에서 따로 생기는 경우 있음)
+/[Pp]ackage[Cc]ache/
+
+# Unity Shader Cache (Unity가 다시 생성 가능)
+/[Aa]ssets/[Ss]hader[Cc]ache/
+
+#Unity Addressables BuildData (자동 생성되는 데이터)
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash.meta
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json.meta
