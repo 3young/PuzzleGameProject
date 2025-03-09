@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Xml.Serialization;
-using UnityEngine.UI;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
@@ -56,7 +56,7 @@ public class GameManager : MonoBehaviour
         }
 
         // 최대 점수 설정
-        if(PlayerPrefs.HasKey("MaxScore"))
+        if(!PlayerPrefs.HasKey("MaxScore"))
         {
             PlayerPrefs.SetInt("MaxScore", 0);
         }
@@ -245,6 +245,7 @@ public class GameManager : MonoBehaviour
 
     void LateUpdate()
     {
-        scoreText.text = score.ToString();  
+        scoreText.text = score.ToString();
+        maxScoreText.text = PlayerPrefs.GetInt("MaxScore").ToString();
     }
 }

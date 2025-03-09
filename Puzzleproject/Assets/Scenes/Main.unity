@@ -1885,7 +1885,7 @@ GameObject:
   - component: {fileID: 1283849543}
   m_Layer: 0
   m_Name: DongleGroup
-  m_TagString: Untagged
+  m_TagString: Dongle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

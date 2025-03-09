@@ -205,7 +205,7 @@ public class Dongle : MonoBehaviour
             // 2초 이상 경과 시 빨간색으로 변경하여 경고
             if (deadTime > 2)
             {
-                spriteRenderer.color = new Color(0.9f, 0.2f, 0.2f);
+                spriteRenderer.color = new Color(0.5f, 0.2f, 0.2f);
             }
             // 5초 이상 경과 시 게임 오버
             if (deadTime > 5)
