@@ -1,0 +1,1 @@
+"Library/"  "Temp/"  rm -r --cached Library/ Temp/git commit -m "Removed Library and Temp from Git tracking"git push origin main

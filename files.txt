@@ -1,0 +1,34 @@
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level0 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level0 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level0.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level0.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level1 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level1 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level2 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level2 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level2.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level2.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level3 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level3 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level3.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level3.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level4 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level4 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level4.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level4.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level5 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level5 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level5.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level5.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level6 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level6 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level6.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level6.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level7 1.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level7 1.anim.meta
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level7.anim
+Puzzleproject/Assets/FruitFace_v1/Animation/fruit_animtest/Level7.anim.meta

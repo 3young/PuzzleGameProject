@@ -91,3 +91,14 @@ crashlytics-build.properties
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.hash.meta
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.json.meta
+
+# Unity Library 폴더 제외
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+.vscode/
